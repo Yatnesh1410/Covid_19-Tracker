@@ -1,0 +1,1256 @@
+[
+  {
+    "country": "Afghanistan",
+    "timeline": {
+      "6/7/21": 626290
+    }
+  },
+  {
+    "country": "Albania",
+    "timeline": {
+      "6/7/21": 798624
+    }
+  },
+  {
+    "country": "Algeria",
+    "timeline": {
+      "6/7/21": 75000
+    }
+  },
+  {
+    "country": "Andorra",
+    "timeline": {
+      "6/7/21": 35916
+    }
+  },
+  {
+    "country": "Angola",
+    "timeline": {
+      "6/7/21": 909215
+    }
+  },
+  {
+    "country": "Anguilla",
+    "timeline": {
+      "6/7/21": 14443
+    }
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "timeline": {
+      "6/7/21": 51811
+    }
+  },
+  {
+    "country": "Argentina",
+    "timeline": {
+      "6/7/21": 14092493
+    }
+  },
+  {
+    "country": "Armenia",
+    "timeline": {
+      "6/7/21": 33529
+    }
+  },
+  {
+    "country": "Aruba",
+    "timeline": {
+      "6/7/21": 116579
+    }
+  },
+  {
+    "country": "Australia",
+    "timeline": {
+      "6/7/21": 5016352
+    }
+  },
+  {
+    "country": "Austria",
+    "timeline": {
+      "6/7/21": 5633751
+    }
+  },
+  {
+    "country": "Azerbaijan",
+    "timeline": {
+      "6/7/21": 2546169
+    }
+  },
+  {
+    "country": "Bahamas",
+    "timeline": {
+      "6/7/21": 55037
+    }
+  },
+  {
+    "country": "Bahrain",
+    "timeline": {
+      "6/7/21": 1826466
+    }
+  },
+  {
+    "country": "Bangladesh",
+    "timeline": {
+      "6/7/21": 10027760
+    }
+  },
+  {
+    "country": "Barbados",
+    "timeline": {
+      "6/7/21": 143488
+    }
+  },
+  {
+    "country": "Belarus",
+    "timeline": {
+      "6/7/21": 796834
+    }
+  },
+  {
+    "country": "Belgium",
+    "timeline": {
+      "6/7/21": 7459773
+    }
+  },
+  {
+    "country": "Belize",
+    "timeline": {
+      "6/7/21": 80121
+    }
+  },
+  {
+    "country": "Benin",
+    "timeline": {
+      "6/7/21": 12934
+    }
+  },
+  {
+    "country": "Bermuda",
+    "timeline": {
+      "6/7/21": 71114
+    }
+  },
+  {
+    "country": "Bhutan",
+    "timeline": {
+      "6/7/21": 482716
+    }
+  },
+  {
+    "country": "Bolivia",
+    "timeline": {
+      "6/7/21": 1829560
+    }
+  },
+  {
+    "country": "Caribbean Netherlands",
+    "timeline": {
+      "6/7/21": 7391
+    }
+  },
+  {
+    "country": "Bosnia",
+    "timeline": {
+      "6/7/21": 232706
+    }
+  },
+  {
+    "country": "Botswana",
+    "timeline": {
+      "6/7/21": 146725
+    }
+  },
+  {
+    "country": "Brazil",
+    "timeline": {
+      "6/7/21": 71691137
+    }
+  },
+  {
+    "country": "British Virgin Islands",
+    "timeline": {
+      "6/7/21": 16302
+    }
+  },
+  {
+    "country": "Brunei",
+    "timeline": {
+      "6/7/21": 55085
+    }
+  },
+  {
+    "country": "Bulgaria",
+    "timeline": {
+      "6/7/21": 1464251
+    }
+  },
+  {
+    "country": "Burkina Faso",
+    "timeline": {
+      "6/7/21": 200
+    }
+  },
+  {
+    "country": "Cambodia",
+    "timeline": {
+      "6/7/21": 4782587
+    }
+  },
+  {
+    "country": "Cameroon",
+    "timeline": {
+      "6/7/21": 75215
+    }
+  },
+  {
+    "country": "Canada",
+    "timeline": {
+      "6/7/21": 26095464
+    }
+  },
+  {
+    "country": "Cabo Verde",
+    "timeline": {
+      "6/7/21": 24382
+    }
+  },
+  {
+    "country": "Cayman Islands",
+    "timeline": {
+      "6/7/21": 84856
+    }
+  },
+  {
+    "country": "Central African Republic",
+    "timeline": {
+      "6/7/21": 18408
+    }
+  },
+  {
+    "country": "Chile",
+    "timeline": {
+      "6/7/21": 19462408
+    }
+  },
+  {
+    "country": "China",
+    "timeline": {
+      "6/7/21": 777879000
+    }
+  },
+  {
+    "country": "Colombia",
+    "timeline": {
+      "6/7/21": 11485904
+    }
+  },
+  {
+    "country": "Comoros",
+    "timeline": {
+      "6/7/21": 83907
+    }
+  },
+  {
+    "country": "Congo",
+    "timeline": {
+      "6/7/21": 38268
+    }
+  },
+  {
+    "country": "Cook Islands",
+    "timeline": {
+      "6/7/21": 8291
+    }
+  },
+  {
+    "country": "Costa Rica",
+    "timeline": {
+      "6/7/21": 1658685
+    }
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "timeline": {
+      "6/7/21": 593683
+    }
+  },
+  {
+    "country": "Croatia",
+    "timeline": {
+      "6/7/21": 1902092
+    }
+  },
+  {
+    "country": "Cuba",
+    "timeline": {
+      "6/7/21": 2734854
+    }
+  },
+  {
+    "country": "Curaçao",
+    "timeline": {
+      "6/7/21": 157556
+    }
+  },
+  {
+    "country": "Cyprus",
+    "timeline": {
+      "6/7/21": 649005
+    }
+  },
+  {
+    "country": "Czechia",
+    "timeline": {
+      "6/7/21": 5868484
+    }
+  },
+  {
+    "country": "DRC",
+    "timeline": {
+      "6/7/21": 23197
+    }
+  },
+  {
+    "country": "Denmark",
+    "timeline": {
+      "6/7/21": 3715218
+    }
+  },
+  {
+    "country": "Djibouti",
+    "timeline": {
+      "6/7/21": 21357
+    }
+  },
+  {
+    "country": "Dominica",
+    "timeline": {
+      "6/7/21": 37126
+    }
+  },
+  {
+    "country": "Dominican Republic",
+    "timeline": {
+      "6/7/21": 5115370
+    }
+  },
+  {
+    "country": "Ecuador",
+    "timeline": {
+      "6/7/21": 2597836
+    }
+  },
+  {
+    "country": "Egypt",
+    "timeline": {
+      "6/7/21": 2698411
+    }
+  },
+  {
+    "country": "El Salvador",
+    "timeline": {
+      "6/7/21": 2015408
+    }
+  },
+  {
+    "country": "Equatorial Guinea",
+    "timeline": {
+      "6/7/21": 236189
+    }
+  },
+  {
+    "country": "Estonia",
+    "timeline": {
+      "6/7/21": 762382
+    }
+  },
+  {
+    "country": "Swaziland",
+    "timeline": {
+      "6/7/21": 35227
+    }
+  },
+  {
+    "country": "Ethiopia",
+    "timeline": {
+      "6/7/21": 1865958
+    }
+  },
+  {
+    "country": "Faroe Islands",
+    "timeline": {
+      "6/7/21": 35537
+    }
+  },
+  {
+    "country": "Falkland Islands (Malvinas)",
+    "timeline": {
+      "6/7/21": 4407
+    }
+  },
+  {
+    "country": "Fiji",
+    "timeline": {
+      "6/7/21": 136247
+    }
+  },
+  {
+    "country": "Finland",
+    "timeline": {
+      "6/7/21": 3240047
+    }
+  },
+  {
+    "country": "France",
+    "timeline": {
+      "6/7/21": 40057082
+    }
+  },
+  {
+    "country": "French Polynesia",
+    "timeline": {
+      "6/7/21": 103252
+    }
+  },
+  {
+    "country": "Gabon",
+    "timeline": {
+      "6/7/21": 23371
+    }
+  },
+  {
+    "country": "Gambia",
+    "timeline": {
+      "6/7/21": 38490
+    }
+  },
+  {
+    "country": "Georgia",
+    "timeline": {
+      "6/7/21": 211728
+    }
+  },
+  {
+    "country": "Germany",
+    "timeline": {
+      "6/7/21": 54240350
+    }
+  },
+  {
+    "country": "Ghana",
+    "timeline": {
+      "6/7/21": 1228216
+    }
+  },
+  {
+    "country": "Gibraltar",
+    "timeline": {
+      "6/7/21": 77717
+    }
+  },
+  {
+    "country": "Greece",
+    "timeline": {
+      "6/7/21": 6084963
+    }
+  },
+  {
+    "country": "Greenland",
+    "timeline": {
+      "6/7/21": 26063
+    }
+  },
+  {
+    "country": "Grenada",
+    "timeline": {
+      "6/7/21": 25544
+    }
+  },
+  {
+    "country": "Guatemala",
+    "timeline": {
+      "6/7/21": 595590
+    }
+  },
+  {
+    "country": "Guernsey",
+    "timeline": {
+      "6/7/21": 68592
+    }
+  },
+  {
+    "country": "Guinea",
+    "timeline": {
+      "6/7/21": 369859
+    }
+  },
+  {
+    "country": "Guinea-Bissau",
+    "timeline": {
+      "6/7/21": 5889
+    }
+  },
+  {
+    "country": "Guyana",
+    "timeline": {
+      "6/7/21": 285247
+    }
+  },
+  {
+    "country": "Honduras",
+    "timeline": {
+      "6/7/21": 420531
+    }
+  },
+  {
+    "country": "Hong Kong",
+    "timeline": {
+      "6/7/21": 2637524
+    }
+  },
+  {
+    "country": "Hungary",
+    "timeline": {
+      "6/7/21": 9249943
+    }
+  },
+  {
+    "country": "Iceland",
+    "timeline": {
+      "6/7/21": 273455
+    }
+  },
+  {
+    "country": "India",
+    "timeline": {
+      "6/7/21": 228041045
+    }
+  },
+  {
+    "country": "Indonesia",
+    "timeline": {
+      "6/7/21": 28770360
+    }
+  },
+  {
+    "country": "Iran",
+    "timeline": {
+      "6/7/21": 3141577
+    }
+  },
+  {
+    "country": "Iraq",
+    "timeline": {
+      "6/7/21": 582537
+    }
+  },
+  {
+    "country": "Ireland",
+    "timeline": {
+      "6/7/21": 2387348
+    }
+  },
+  {
+    "country": "Isle of Man",
+    "timeline": {
+      "6/7/21": 89727
+    }
+  },
+  {
+    "country": "Israel",
+    "timeline": {
+      "6/7/21": 10598448
+    }
+  },
+  {
+    "country": "Italy",
+    "timeline": {
+      "6/7/21": 38178684
+    }
+  },
+  {
+    "country": "Jamaica",
+    "timeline": {
+      "6/7/21": 177883
+    }
+  },
+  {
+    "country": "Japan",
+    "timeline": {
+      "6/7/21": 17254680
+    }
+  },
+  {
+    "country": "Channel Islands",
+    "timeline": {
+      "6/7/21": 108577
+    }
+  },
+  {
+    "country": "Jordan",
+    "timeline": {
+      "6/7/21": 2307978
+    }
+  },
+  {
+    "country": "Kazakhstan",
+    "timeline": {
+      "6/7/21": 3409522
+    }
+  },
+  {
+    "country": "Kenya",
+    "timeline": {
+      "6/7/21": 983580
+    }
+  },
+  {
+    "country": "Kuwait",
+    "timeline": {
+      "6/7/21": 1820000
+    }
+  },
+  {
+    "country": "Kyrgyzstan",
+    "timeline": {
+      "6/7/21": 54101
+    }
+  },
+  {
+    "country": "Lao People's Democratic Republic",
+    "timeline": {
+      "6/7/21": 982253
+    }
+  },
+  {
+    "country": "Latvia",
+    "timeline": {
+      "6/7/21": 850848
+    }
+  },
+  {
+    "country": "Lebanon",
+    "timeline": {
+      "6/7/21": 863134
+    }
+  },
+  {
+    "country": "Lesotho",
+    "timeline": {
+      "6/7/21": 36759
+    }
+  },
+  {
+    "country": "Liberia",
+    "timeline": {
+      "6/7/21": 56144
+    }
+  },
+  {
+    "country": "Libyan Arab Jamahiriya",
+    "timeline": {
+      "6/7/21": 243891
+    }
+  },
+  {
+    "country": "Liechtenstein",
+    "timeline": {
+      "6/7/21": 22944
+    }
+  },
+  {
+    "country": "Lithuania",
+    "timeline": {
+      "6/7/21": 1799353
+    }
+  },
+  {
+    "country": "Luxembourg",
+    "timeline": {
+      "6/7/21": 373485
+    }
+  },
+  {
+    "country": "Macao",
+    "timeline": {
+      "6/7/21": 203833
+    }
+  },
+  {
+    "country": "Madagascar",
+    "timeline": {
+      "6/7/21": 36640
+    }
+  },
+  {
+    "country": "Malawi",
+    "timeline": {
+      "6/7/21": 357650
+    }
+  },
+  {
+    "country": "Malaysia",
+    "timeline": {
+      "6/7/21": 3493193
+    }
+  },
+  {
+    "country": "Maldives",
+    "timeline": {
+      "6/7/21": 482628
+    }
+  },
+  {
+    "country": "Mali",
+    "timeline": {
+      "6/7/21": 127042
+    }
+  },
+  {
+    "country": "Malta",
+    "timeline": {
+      "6/7/21": 551494
+    }
+  },
+  {
+    "country": "Mauritania",
+    "timeline": {
+      "6/7/21": 37331
+    }
+  },
+  {
+    "country": "Mauritius",
+    "timeline": {
+      "6/7/21": 400801
+    }
+  },
+  {
+    "country": "Mexico",
+    "timeline": {
+      "6/7/21": 34457602
+    }
+  },
+  {
+    "country": "Moldova",
+    "timeline": {
+      "6/7/21": 470718
+    }
+  },
+  {
+    "country": "Monaco",
+    "timeline": {
+      "6/7/21": 31774
+    }
+  },
+  {
+    "country": "Mongolia",
+    "timeline": {
+      "6/7/21": 3397608
+    }
+  },
+  {
+    "country": "Montenegro",
+    "timeline": {
+      "6/7/21": 242070
+    }
+  },
+  {
+    "country": "Montserrat",
+    "timeline": {
+      "6/7/21": 2522
+    }
+  },
+  {
+    "country": "Morocco",
+    "timeline": {
+      "6/7/21": 15007487
+    }
+  },
+  {
+    "country": "Mozambique",
+    "timeline": {
+      "6/7/21": 394312
+    }
+  },
+  {
+    "country": "Myanmar",
+    "timeline": {
+      "6/7/21": 2994900
+    }
+  },
+  {
+    "country": "Namibia",
+    "timeline": {
+      "6/7/21": 87457
+    }
+  },
+  {
+    "country": "Nauru",
+    "timeline": {
+      "6/7/21": 7392
+    }
+  },
+  {
+    "country": "Nepal",
+    "timeline": {
+      "6/7/21": 2804574
+    }
+  },
+  {
+    "country": "Netherlands",
+    "timeline": {
+      "6/7/21": 9934313
+    }
+  },
+  {
+    "country": "New Caledonia",
+    "timeline": {
+      "6/7/21": 92594
+    }
+  },
+  {
+    "country": "New Zealand",
+    "timeline": {
+      "6/7/21": 668115
+    }
+  },
+  {
+    "country": "Nicaragua",
+    "timeline": {
+      "6/7/21": 167500
+    }
+  },
+  {
+    "country": "Niger",
+    "timeline": {
+      "6/7/21": 159525
+    }
+  },
+  {
+    "country": "Nigeria",
+    "timeline": {
+      "6/7/21": 2225765
+    }
+  },
+  {
+    "country": "Macedonia",
+    "timeline": {
+      "6/7/21": 384466
+    }
+  },
+  {
+    "country": "Norway",
+    "timeline": {
+      "6/7/21": 2915249
+    }
+  },
+  {
+    "country": "Oman",
+    "timeline": {
+      "6/7/21": 296894
+    }
+  },
+  {
+    "country": "Pakistan",
+    "timeline": {
+      "6/7/21": 8263763
+    }
+  },
+  {
+    "country": "Palestine",
+    "timeline": {
+      "6/7/21": 607832
+    }
+  },
+  {
+    "country": "Panama",
+    "timeline": {
+      "6/7/21": 1100689
+    }
+  },
+  {
+    "country": "Papua New Guinea",
+    "timeline": {
+      "6/7/21": 11537
+    }
+  },
+  {
+    "country": "Paraguay",
+    "timeline": {
+      "6/7/21": 407644
+    }
+  },
+  {
+    "country": "Peru",
+    "timeline": {
+      "6/7/21": 4298860
+    }
+  },
+  {
+    "country": "Philippines",
+    "timeline": {
+      "6/7/21": 5965651
+    }
+  },
+  {
+    "country": "Poland",
+    "timeline": {
+      "6/7/21": 22134362
+    }
+  },
+  {
+    "country": "Portugal",
+    "timeline": {
+      "6/7/21": 6228272
+    }
+  },
+  {
+    "country": "Qatar",
+    "timeline": {
+      "6/7/21": 2676239
+    }
+  },
+  {
+    "country": "Romania",
+    "timeline": {
+      "6/7/21": 8180838
+    }
+  },
+  {
+    "country": "Russia",
+    "timeline": {
+      "6/7/21": 30708050
+    }
+  },
+  {
+    "country": "Rwanda",
+    "timeline": {
+      "6/7/21": 400096
+    }
+  },
+  {
+    "country": "Saint Helena",
+    "timeline": {
+      "6/7/21": 7892
+    }
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "timeline": {
+      "6/7/21": 38190
+    }
+  },
+  {
+    "country": "Saint Lucia",
+    "timeline": {
+      "6/7/21": 47828
+    }
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "timeline": {
+      "6/7/21": 21422
+    }
+  },
+  {
+    "country": "Samoa",
+    "timeline": {
+      "6/7/21": 32627
+    }
+  },
+  {
+    "country": "San Marino",
+    "timeline": {
+      "6/7/21": 42936
+    }
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "timeline": {
+      "6/7/21": 18888
+    }
+  },
+  {
+    "country": "Saudi Arabia",
+    "timeline": {
+      "6/7/21": 14977476
+    }
+  },
+  {
+    "country": "Senegal",
+    "timeline": {
+      "6/7/21": 522575
+    }
+  },
+  {
+    "country": "Serbia",
+    "timeline": {
+      "6/7/21": 4770589
+    }
+  },
+  {
+    "country": "Seychelles",
+    "timeline": {
+      "6/7/21": 136526
+    }
+  },
+  {
+    "country": "Sierra Leone",
+    "timeline": {
+      "6/7/21": 79762
+    }
+  },
+  {
+    "country": "Singapore",
+    "timeline": {
+      "6/7/21": 4047651
+    }
+  },
+  {
+    "country": "Sint Maarten",
+    "timeline": {
+      "6/7/21": 29055
+    }
+  },
+  {
+    "country": "Slovakia",
+    "timeline": {
+      "6/7/21": 2773294
+    }
+  },
+  {
+    "country": "Slovenia",
+    "timeline": {
+      "6/7/21": 1198098
+    }
+  },
+  {
+    "country": "Solomon Islands",
+    "timeline": {
+      "6/7/21": 16581
+    }
+  },
+  {
+    "country": "Somalia",
+    "timeline": {
+      "6/7/21": 137618
+    }
+  },
+  {
+    "country": "South Africa",
+    "timeline": {
+      "6/7/21": 1343433
+    }
+  },
+  {
+    "country": "S. Korea",
+    "timeline": {
+      "6/7/21": 9878469
+    }
+  },
+  {
+    "country": "South Sudan",
+    "timeline": {
+      "6/7/21": 9744
+    }
+  },
+  {
+    "country": "Spain",
+    "timeline": {
+      "6/7/21": 28752570
+    }
+  },
+  {
+    "country": "Sri Lanka",
+    "timeline": {
+      "6/7/21": 2296864
+    }
+  },
+  {
+    "country": "Sudan",
+    "timeline": {
+      "6/7/21": 402114
+    }
+  },
+  {
+    "country": "Suriname",
+    "timeline": {
+      "6/7/21": 102612
+    }
+  },
+  {
+    "country": "Sweden",
+    "timeline": {
+      "6/7/21": 5552320
+    }
+  },
+  {
+    "country": "Switzerland",
+    "timeline": {
+      "6/7/21": 5128983
+    }
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "timeline": {
+      "6/7/21": 24781
+    }
+  },
+  {
+    "country": "Taiwan",
+    "timeline": {
+      "6/7/21": 699187
+    }
+  },
+  {
+    "country": "Tajikistan",
+    "timeline": {
+      "6/7/21": 91775
+    }
+  },
+  {
+    "country": "Thailand",
+    "timeline": {
+      "6/7/21": 4190503
+    }
+  },
+  {
+    "country": "Timor-Leste",
+    "timeline": {
+      "6/7/21": 81806
+    }
+  },
+  {
+    "country": "Togo",
+    "timeline": {
+      "6/7/21": 311938
+    }
+  },
+  {
+    "country": "Tonga",
+    "timeline": {
+      "6/7/21": 29980
+    }
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "timeline": {
+      "6/7/21": 119756
+    }
+  },
+  {
+    "country": "Tunisia",
+    "timeline": {
+      "6/7/21": 1126036
+    }
+  },
+  {
+    "country": "Turkey",
+    "timeline": {
+      "6/7/21": 30857320
+    }
+  },
+  {
+    "country": "Turkmenistan",
+    "timeline": {
+      "6/7/21": 41993
+    }
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "timeline": {
+      "6/7/21": 36170
+    }
+  },
+  {
+    "country": "Tuvalu",
+    "timeline": {
+      "6/7/21": 2400
+    }
+  },
+  {
+    "country": "Uganda",
+    "timeline": {
+      "6/7/21": 706626
+    }
+  },
+  {
+    "country": "Ukraine",
+    "timeline": {
+      "6/7/21": 1388124
+    }
+  },
+  {
+    "country": "UAE",
+    "timeline": {
+      "6/7/21": 13315751
+    }
+  },
+  {
+    "country": "UK",
+    "timeline": {
+      "6/7/21": 67994584
+    }
+  },
+  {
+    "country": "USA",
+    "timeline": {
+      "6/7/21": 301638578
+    }
+  },
+  {
+    "country": "Uruguay",
+    "timeline": {
+      "6/7/21": 3012523
+    }
+  },
+  {
+    "country": "Uzbekistan",
+    "timeline": {
+      "6/7/21": 2136423
+    }
+  },
+  {
+    "country": "Vanuatu",
+    "timeline": {
+      "6/7/21": 270
+    }
+  },
+  {
+    "country": "Venezuela",
+    "timeline": {
+      "6/7/21": 3300000
+    }
+  },
+  {
+    "country": "Vietnam",
+    "timeline": {
+      "6/7/21": 1248559
+    }
+  },
+  {
+    "country": "Wallis and Futuna",
+    "timeline": {
+      "6/7/21": 8365
+    }
+  },
+  {
+    "country": "Yemen",
+    "timeline": {
+      "6/7/21": 104070
+    }
+  },
+  {
+    "country": "Zambia",
+    "timeline": {
+      "6/7/21": 147115
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "timeline": {
+      "6/7/21": 1061951
+    }
+  }
+]
